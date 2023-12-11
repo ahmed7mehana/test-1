@@ -1,0 +1,40 @@
+.add{
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.taskList{
+    width: 70%;
+    margin-top: 20px;
+
+}
+.taskList li{
+    background: bisque;
+    margin-top: 8px;
+    border-radius: 9px;
+    padding: 8px;
+}
+#taskInput{
+    padding: 5px 20px;
+    border-radius: 5px;
+}
+#pub{
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 6px 30px 6px 30px;
+    background: #0dcaf0;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin: 0;
+}
+#username{
+    margin: 0;
+}
+ul {
+    list-style: none;
+}
